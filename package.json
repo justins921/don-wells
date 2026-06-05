@@ -1,0 +1,10 @@
+{
+  "name": "dwlc-marketing-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Marketing site for Don Wells Lawn Care (Fond du Lac, WI).",
+  "dependencies": {
+    "resend": "^4.0.0"
+  }
+}
