@@ -12,11 +12,12 @@ A clean, static marketing site for **Don Wells Lawn Care (DWLC)**, a family-run 
 
 ```
 /
-├── index.html         # Single-page marketing site
+├── index.html           # Single-page marketing site
+├── privacy-policy.html  # Privacy Policy (served at /privacy-policy via cleanUrls)
 ├── api/
-│   └── contact.js     # Serverless function for the quote form
-├── package.json       # type: module, resend dependency
-├── vercel.json        # Minimal config + security headers
+│   └── contact.js       # Serverless function for the quote form
+├── package.json         # type: module, resend dependency
+├── vercel.json          # Minimal config + security headers
 └── README.md
 ```
 
